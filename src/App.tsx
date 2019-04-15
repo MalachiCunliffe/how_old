@@ -4,6 +4,7 @@ import Footer from './components/Footer/Footer'
 import Header from './components/Header/Header'
 import Result from './components/Result/Result'
 
+
 interface IState {
   result:string
   filelength:number
