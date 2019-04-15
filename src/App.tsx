@@ -1,8 +1,8 @@
 import * as React from 'react';
 import DropArea from './components/DropArea/DropArea'
+import Footer from './components/Footer/Footer'
 import Header from './components/Header/Header'
 import Result from './components/Result/Result'
-import Footer from './components/Footer/Footer'
 
 interface IState {
   result:string
