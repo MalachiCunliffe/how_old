@@ -17,6 +17,7 @@ class App extends React.Component<{},IState>{
         filelength:0,
         result:""
       }
+      
     }
 
     public resultstate = (resultString:string,filelen:any) => {
@@ -33,6 +34,7 @@ class App extends React.Component<{},IState>{
         </div>
         
       );
+      
     }
 }
 
