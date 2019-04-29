@@ -1,7 +1,7 @@
 
 <h2>Currently Online</h2>
 
-<h3>https://malachi.co.nz/ </h3>
+<h3>https://malachi.co.nz/target="_blank"</h3>
 
 
 
